@@ -1,0 +1,26 @@
+.badge-secondary {
+    color: #fff;
+    background-color: red;
+}
+
+.h1 {
+    font-size: 5.5rem;
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-image: url("../Wallpapers-HD-1080p-Nature.jpg")
+    
+}
+
+#searchbar{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+  
+}
+
+.list-group-item {
+    background-color: transparent;
+}
