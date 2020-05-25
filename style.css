@@ -14,13 +14,15 @@ body{
     
 }
 
-#searchbar{
-    color: white;
+#searchbaaar{
+    color:black;
     font-weight: bold;
     font-size: 30px;
   
 }
 
-.list-group-item {
-    background-color: transparent;
+
+
+.list-group-item+.list-group-item {
+    color: black;
 }
